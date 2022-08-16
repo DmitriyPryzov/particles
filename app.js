@@ -7,7 +7,7 @@ const canvas = document.querySelector("canvas"),
         resizeCanvas();
 
 const Particles = [];
-const countParticles = 100;
+const countParticles = 80;
 
 const properties = {
     maxVelocity: 0.5,
